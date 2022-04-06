@@ -3,4 +3,4 @@ JavaScript and Python password Generator
 
 
 
-#H1 PYTHON PASSWORD:
+#PYTHON PASSWORD:
