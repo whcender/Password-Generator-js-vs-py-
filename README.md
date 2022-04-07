@@ -9,16 +9,27 @@ JavaScript and Python password Generator
 
 ![](https://i.hizliresim.com/5i3zll6.png)
 
+# JAVASCRIPT PASSWORD:
 
-- Let's test the strength of the password
+> JavaScript Console Output
+
+<img src="https://i.hizliresim.com/mfvlfh9.png" width="550" />
+
+
+- LETS TEST THE STRENGH OF THE PASSWORD
 
 > Kaspersky Test [Link](https://password.kaspersky.com/en/)
 
-![](https://i.hizliresim.com/m8gjc2p.png)
+<img src="https://i.hizliresim.com/m8gjc2p.png" width="550" />
 
 > Password Monster [Link](https://www.passwordmonster.com/)
 
-![](https://i.hizliresim.com/fzsac37.png)
+<img src="https://i.hizliresim.com/fzsac37.png" width="550" />
+
+
+You can easily make a (strong) password generator with these two programming languages ⚔️
+
+
 
 
 
