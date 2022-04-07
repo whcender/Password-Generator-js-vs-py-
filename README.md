@@ -1,4 +1,4 @@
-# Password-Generator-js-vs-py-
+# Password-Generator-js-vs-py- 🏹🗡️
 JavaScript and Python password Generator
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) 
